@@ -5,3 +5,5 @@ estoy realizando la prueba del curso de git para saber si comprendo
 esto es una fucking prueba. 
 
 Estoy tratando de aprender Git que era lo que hacia todos los dias.
+
+no sabia como funcionaba esto pero se me hace que es como simple.
