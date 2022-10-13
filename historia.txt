@@ -6,4 +6,6 @@ esto es una fucking prueba.
 
 Estoy tratando de aprender Git que era lo que hacia todos los dias.
 
+master1
+
 mañana hablaremos de su vida laboral.
