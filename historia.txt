@@ -8,4 +8,6 @@ Estoy tratando de aprender Git que era lo que hacia todos los dias.
 
 master1
 
+msater 2
+
 mañana hablaremos de su vida laboral.
